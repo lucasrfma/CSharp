@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.exe
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.deps.json
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.runtimeconfig.json
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.dll
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\bin\Debug\net5.0\ref\02-Instrucoes.dll
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\bin\Debug\net5.0\02-Instrucoes.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.dll
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\obj\Debug\net5.0\ref\02-Instrucoes.dll
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\02-Instrucoes\obj\Debug\net5.0\02-Instrucoes.genruntimeconfig.cache
