@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\bin\Debug\net5.0\startingOut.exe
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\bin\Debug\net5.0\startingOut.deps.json
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\bin\Debug\net5.0\startingOut.runtimeconfig.json
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\bin\Debug\net5.0\startingOut.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\bin\Debug\net5.0\startingOut.dll
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\bin\Debug\net5.0\ref\startingOut.dll
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\bin\Debug\net5.0\startingOut.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\obj\Debug\net5.0\startingOut.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\obj\Debug\net5.0\startingOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\obj\Debug\net5.0\startingOut.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\obj\Debug\net5.0\startingOut.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\obj\Debug\net5.0\startingOut.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\obj\Debug\net5.0\startingOut.dll
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\obj\Debug\net5.0\ref\startingOut.dll
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\obj\Debug\net5.0\startingOut.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\startingOut\obj\Debug\net5.0\startingOut.genruntimeconfig.cache
