@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.exe
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.deps.json
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.runtimeconfig.json
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.dll
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\bin\Debug\net5.0\ref\Dividindo X por Y.dll
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.dll
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\obj\Debug\net5.0\ref\Dividindo X por Y.dll
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\Des. Introducao a Programacao com C#\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dividindo X por Y/1.0.0": {
+        "runtime": {
+          "Dividindo X por Y.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dividindo X por Y/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
