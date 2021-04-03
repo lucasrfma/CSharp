@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\bin\Debug\net5.0\ValidaSenhas.exe
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\bin\Debug\net5.0\ValidaSenhas.deps.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\bin\Debug\net5.0\ValidaSenhas.runtimeconfig.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\bin\Debug\net5.0\ValidaSenhas.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\bin\Debug\net5.0\ValidaSenhas.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\bin\Debug\net5.0\ref\ValidaSenhas.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\bin\Debug\net5.0\ValidaSenhas.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\obj\Debug\net5.0\ValidaSenhas.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\obj\Debug\net5.0\ValidaSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\obj\Debug\net5.0\ValidaSenhas.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\obj\Debug\net5.0\ValidaSenhas.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\obj\Debug\net5.0\ValidaSenhas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\obj\Debug\net5.0\ValidaSenhas.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\obj\Debug\net5.0\ref\ValidaSenhas.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\obj\Debug\net5.0\ValidaSenhas.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidaSenhas\obj\Debug\net5.0\ValidaSenhas.genruntimeconfig.cache

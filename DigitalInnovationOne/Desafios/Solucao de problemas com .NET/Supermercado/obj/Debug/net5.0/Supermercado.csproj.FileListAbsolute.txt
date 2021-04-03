@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\bin\Debug\net5.0\Supermercado.exe
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\bin\Debug\net5.0\Supermercado.deps.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\bin\Debug\net5.0\Supermercado.runtimeconfig.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\bin\Debug\net5.0\Supermercado.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\bin\Debug\net5.0\Supermercado.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\bin\Debug\net5.0\ref\Supermercado.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\bin\Debug\net5.0\Supermercado.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\obj\Debug\net5.0\Supermercado.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\obj\Debug\net5.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\obj\Debug\net5.0\Supermercado.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\obj\Debug\net5.0\Supermercado.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\obj\Debug\net5.0\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\obj\Debug\net5.0\Supermercado.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\obj\Debug\net5.0\ref\Supermercado.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\obj\Debug\net5.0\Supermercado.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\Supermercado\obj\Debug\net5.0\Supermercado.genruntimeconfig.cache

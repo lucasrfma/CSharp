@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\bin\Debug\net5.0\FilaBanco.exe
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\bin\Debug\net5.0\FilaBanco.deps.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\bin\Debug\net5.0\FilaBanco.runtimeconfig.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\bin\Debug\net5.0\FilaBanco.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\bin\Debug\net5.0\FilaBanco.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\bin\Debug\net5.0\ref\FilaBanco.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\bin\Debug\net5.0\FilaBanco.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\obj\Debug\net5.0\FilaBanco.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\obj\Debug\net5.0\FilaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\obj\Debug\net5.0\FilaBanco.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\obj\Debug\net5.0\FilaBanco.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\obj\Debug\net5.0\FilaBanco.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\obj\Debug\net5.0\FilaBanco.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\obj\Debug\net5.0\ref\FilaBanco.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\obj\Debug\net5.0\FilaBanco.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\FilaBanco\obj\Debug\net5.0\FilaBanco.genruntimeconfig.cache

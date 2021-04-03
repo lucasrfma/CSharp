@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\obj\Debug\net5.0\ValidacaoNotas.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\obj\Debug\net5.0\ValidacaoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\obj\Debug\net5.0\ValidacaoNotas.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\obj\Debug\net5.0\ValidacaoNotas.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\obj\Debug\net5.0\ValidacaoNotas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\bin\Debug\net5.0\ValidacaoNotas.exe
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\bin\Debug\net5.0\ValidacaoNotas.deps.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\bin\Debug\net5.0\ValidacaoNotas.runtimeconfig.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\bin\Debug\net5.0\ValidacaoNotas.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\bin\Debug\net5.0\ValidacaoNotas.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\bin\Debug\net5.0\ref\ValidacaoNotas.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\bin\Debug\net5.0\ValidacaoNotas.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\obj\Debug\net5.0\ValidacaoNotas.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\obj\Debug\net5.0\ref\ValidacaoNotas.dll
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\obj\Debug\net5.0\ValidacaoNotas.pdb
+C:\Users\lucas\OneDrive\Code\CSharp\DigitalInnovationOne\Desafios\Solucao de problemas com .NET\ValidacaoNotas\obj\Debug\net5.0\ValidacaoNotas.genruntimeconfig.cache
