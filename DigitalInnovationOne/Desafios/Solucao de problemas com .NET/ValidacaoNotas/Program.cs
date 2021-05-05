@@ -34,7 +34,14 @@ namespace ValidacaoNotas
                 }
 
                 media = (nota1 + nota2)/2;
-                Console.WriteLine("media = "+media.ToString("n2"));
+                if( media < 0 && media >= -0.05 )
+                {
+                    Console.WriteLine($"media = -0.00");
+                }
+                else
+                {
+                    Console.WriteLine("media = "+media.ToString("n2"));
+                }
                 
                 sucesso = false;
                 while( !sucesso || (continua != 1 && continua != 2) )

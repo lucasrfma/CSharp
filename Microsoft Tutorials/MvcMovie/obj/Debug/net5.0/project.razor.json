@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15639,18 +15644,33 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
-      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\Movies\\Welcome.cshtml",
+      "TargetPath": "Views\\Movies\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\lucas\\OneDrive\\Code\\CSharp\\Microsoft Tutorials\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
-      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
       "FileKind": "mvc"
     },
     {
